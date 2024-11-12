@@ -4,11 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslateAPI", "TranslateAPI.csproj", "{5B0EDB53-196B-4FD5-912E-82D289A373A8}"
-	ProjectSection(ProjectDependencies) = postProject
-		{5B7F47FD-F060-4227-8DD8-E6E3406E13F3} = {5B7F47FD-F060-4227-8DD8-E6E3406E13F3}
-	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteAspore7", "..\..\TransFile_API\TranslateAPI\TesteAspore7\TesteAspore7.csproj", "{5B7F47FD-F060-4227-8DD8-E6E3406E13F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convertion", "..\..\..\Documents\Visual Studio 2017\Backup Files\Convertion\Convertion.csproj", "{0D0DE23A-3985-441F-8FE1-A452057D71A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B7F47FD-F060-4227-8DD8-E6E3406E13F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B7F47FD-F060-4227-8DD8-E6E3406E13F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B7F47FD-F060-4227-8DD8-E6E3406E13F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B7F47FD-F060-4227-8DD8-E6E3406E13F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0DE23A-3985-441F-8FE1-A452057D71A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0DE23A-3985-441F-8FE1-A452057D71A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0DE23A-3985-441F-8FE1-A452057D71A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0DE23A-3985-441F-8FE1-A452057D71A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

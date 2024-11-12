@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48260449846\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {}
+    "C:\\Users\\45811737874\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48260449846\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {
+    "C:\\Users\\45811737874\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48260449846\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
+        "projectUniqueName": "C:\\Users\\45811737874\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
         "projectName": "TranslateAPI",
-        "projectPath": "C:\\Users\\48260449846\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
-        "packagesPath": "C:\\Users\\48260449846\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48260449846\\Desktop\\BackEnd\\TranslateAPI\\obj\\",
+        "projectPath": "C:\\Users\\45811737874\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
+        "packagesPath": "C:\\Users\\45811737874\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\45811737874\\Desktop\\BackEnd\\TranslateAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\48260449846\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\45811737874\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

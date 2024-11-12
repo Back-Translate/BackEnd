@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslateAPI", "TranslateAPI.csproj", "{5B0EDB53-196B-4FD5-912E-82D289A373A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteAspore7", "..\..\Aspore_Teste\TesteAspore7\TesteAspore7.csproj", "{D89BD102-0644-4A40-8BB7-C100958DB965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0EDB53-196B-4FD5-912E-82D289A373A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89BD102-0644-4A40-8BB7-C100958DB965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89BD102-0644-4A40-8BB7-C100958DB965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89BD102-0644-4A40-8BB7-C100958DB965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89BD102-0644-4A40-8BB7-C100958DB965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B0FE4E-A3CA-4FDF-B0ED-42C7EBD180E6}
+	EndGlobalSection
+EndGlobal
